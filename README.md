@@ -1,0 +1,1 @@
+This repository contains all data files, functions, and scripts (found in reproduce_figures.ipynb) to reproduce the figures presented in Roche et al. (2025) – Atmospheric loss during giant impacts: mechanisms and scaling of near- and far-field loss. 
