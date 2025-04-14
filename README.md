@@ -2,6 +2,6 @@ Supporting data (data_files/), plotting scripts (reproduce_figures.ipynb), and a
 
 XXXXX
 
-The initial conditions files, parameter files, and loss fractions vs. time data can be found in the Zenodo copy of this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15124315.svg)](https://doi.org/10.5281/zenodo.15124315)
+The initial conditions files, parameter files, and loss fractions vs. time data can be found in the Zenodo copy of this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15065478.svg)](https://doi.org/10.5281/zenodo.15065478)
 
 Developer: matthew.roche@bristol.ac.uk. 
