@@ -148,7 +148,7 @@ def X_atm_calc(b,
     
     X_NF = xi1 - xi2 * (b + xi3)**2
 
-    xi1 = k11 + (k12 * gamma) + (k13 * gamma**2) + (k14) + (k15 * M_t)
+    xi1 = k11 + (k12 * gamma) + (k13 * gamma**2) + (k14) + (k16 * M_t)
     xi2 = k21 + (k22 * gamma) + (k23 * gamma**2) + (k24)
     xi3 = k31 + (k32 * gamma) + (k33 * gamma**2) + (k34)
 
